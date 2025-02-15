@@ -11,7 +11,8 @@
 
 
 # Apresentação
-![Apresentação Resumida](assets/Read-me.jpg)
+![Imagem_Home](assets/imgHome.jpg)
+![Imagem_Sobre_mim](assets/imgSobreMim.jpg)
 
 # Descrição
 <p>Projeto criado em Fev/2025, como fruto de aprendizado em programação HTML e CSS disponibilizado pelo Projeto ONE (Oracle + Alura).</p>
