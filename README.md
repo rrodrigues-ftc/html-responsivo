@@ -11,8 +11,8 @@
 
 
 # Apresentação
-![Imagem_Home](assets/imgHome.jpg)
-![Imagem_Sobre_mim](assets/imgSobreMim.jpg)
+<p>Este projeto é uma realização da aplicação de conhecimentos adquiridos durante um dos módulos do Projeto ONE (Oracle + Alura Latam). </p>
+
 
 # Descrição
 <p>Projeto criado em Fev/2025, como fruto de aprendizado em programação HTML e CSS disponibilizado pelo Projeto ONE (Oracle + Alura).</p>
@@ -25,14 +25,18 @@
 <p>Contudo, algumas melhorias podem ser aplicadas.</p>
 
 # PaginaHome
+![Imagem_Home](assets/imgHome.jpg)
 <p></p>
 <p>Esta página apresenta um breve resumo/oferta de trabalho.</p>
 <p>Apresenta também hiperlinks de acesso a alguns repositórios e portfolio.</p>
 <p></p>
 
 # PaginaSobreMim
+![Imagem_Sobre_mim](assets/imgSobreMim.jpg)
+<p></p>
 <p>Esta página apresenta um breve resumo do perfil do autor.</p>
 <p>Uma pessoa apaixonado por tecnologia e entusiasta da automação de processos, e que adora desafios.</p>
+<p></p>
 
 # Tecnologias
 <p>No repositório serão encontrados arquivos correspondentes a HTML e CSS .</p>
